@@ -1,0 +1,16 @@
+.book{
+border: 1px solid lightgray;
+border-radius: 4px;
+box-shadow: 3px 2px 10px 2px lightgray;
+text-align: center;
+border-radius: 5px;
+padding-top: 1rem;
+}
+
+.list{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    padding: 2rem;
+
+}
